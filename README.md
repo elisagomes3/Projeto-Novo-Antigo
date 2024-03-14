@@ -1,1 +1,2 @@
-# Trabalho-Antigo-Novo
+# Projeto-Antigo-Novo
+Trabalho em dupla
