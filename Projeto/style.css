@@ -2,7 +2,7 @@
     display: flex;
     border-radius: 30px;
     background-color: rgb(175, 213, 238);
-    width: 60%;
+    width: 50%;
 }
 
 
@@ -12,7 +12,7 @@
     }
 .titulos{
     h1{
-        color: rgba(0, 0, 255, 0.521);
+        color:rgba(0, 0, 255, 0.842);
     }
     h4{
         color: rgb(207, 220, 231);
@@ -32,11 +32,22 @@ margin-left: 70px;
 }
 
 .pedidos{
-    border-radius: 10px;
+    border-radius: 30px;
     width: 30%;
     background-color: rgb(175, 213, 238);
+    margin-left: 40px;
 }
 
+.pedidos2{
+    color:rgba(0, 0, 255, 0.842);
+    margin-left: 20px;
+    display: flex;
+
+}
+
+.linha1{
+    display: flex;
+}
 
 
 
