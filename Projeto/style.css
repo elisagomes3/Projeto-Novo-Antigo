@@ -36,13 +36,42 @@ margin-left: 70px;
     width: 30%;
     background-color: rgb(175, 213, 238);
     margin-left: 40px;
+
 }
 
 .pedidos2{
     color:rgba(0, 0, 255, 0.842);
     margin-left: 20px;
     display: flex;
+    
+}
 
+.pedidos3{
+    margin-left: 130px;
+}
+
+.pedidos4{
+    display: flex;
+}
+
+.pedidos5{
+    margin-left: 20px;
+    color: rgba(0, 0, 255, 0.842);
+    
+}
+
+.pedidos6{
+    margin-left: 70px;
+    color: rgba(0, 0, 255, 0.842);
+}
+
+.hr{
+   border-color:azure ; 
+   text-align: center;
+   border-width: 0; 
+   height: 1px;
+   border-top-width: 1px;
+   
 }
 
 .linha1{
