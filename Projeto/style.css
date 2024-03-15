@@ -2,18 +2,17 @@
     display: flex;
     border-radius: 30px;
     background-color: rgb(175, 213, 238);
-    width: 60%;
+    width: 50%;
 }
 
 
 .robo {
     display: flex;
-    margin-left: 10px;
-    .titulos{
-        
+    margin-left: 10px;      
     }
+.titulos{
     h1{
-        color: rgba(0, 0, 255, 0.521);
+        color:rgba(0, 0, 255, 0.842);
     }
     h4{
         color: rgb(207, 220, 231);
@@ -32,6 +31,52 @@ margin-left: 70px;
 
 }
 
+.pedidos{
+    border-radius: 30px;
+    width: 30%;
+    background-color: rgb(175, 213, 238);
+    margin-left: 40px;
+
+}
+
+.pedidos2{
+    color:rgba(0, 0, 255, 0.842);
+    margin-left: 20px;
+    display: flex;
+    
+}
+
+.pedidos3{
+    margin-left: 130px;
+}
+
+.pedidos4{
+    display: flex;
+}
+
+.pedidos5{
+    margin-left: 20px;
+    color: rgba(0, 0, 255, 0.842);
+    
+}
+
+.pedidos6{
+    margin-left: 70px;
+    color: rgba(0, 0, 255, 0.842);
+}
+
+.hr{
+   border-color:azure ; 
+   text-align: center;
+   border-width: 0; 
+   height: 1px;
+   border-top-width: 1px;
+   
+}
+
+.linha1{
+    display: flex;
+}
 
 
 
