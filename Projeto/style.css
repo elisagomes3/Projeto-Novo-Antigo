@@ -8,10 +8,9 @@
 
 .robo {
     display: flex;
-    margin-left: 10px;
-    .titulos{
-        
+    margin-left: 10px;      
     }
+.titulos{
     h1{
         color: rgba(0, 0, 255, 0.521);
     }
@@ -30,6 +29,12 @@ margin-left: 70px;
     border-radius: 10px;
     color: rgb(207, 220, 231);
 
+}
+
+.pedidos{
+    border-radius: 10px;
+    width: 30%;
+    background-color: rgb(175, 213, 238);
 }
 
 
