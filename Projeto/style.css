@@ -2,17 +2,23 @@
     display: flex;
     border-radius: 30px;
     background-color: rgb(175, 213, 238);
-    width: 60%;
+    width: 50%;
 }
 
 
 .robo {
     display: flex;
+<<<<<<< HEAD
     margin-left: 10px;
 }
 
+=======
+    margin-left: 10px;      
+    }
+.titulos{
+>>>>>>> 0a48dd1e9d7fa44004af42667c510d45e3ca65bb
     h1{
-        color: rgba(0, 0, 255, 0.521);
+        color:rgba(0, 0, 255, 0.842);
     }
     h4{
         color: rgb(207, 220, 231);
@@ -31,6 +37,52 @@ margin-left: 70px;
 
 }
 
+.pedidos{
+    border-radius: 30px;
+    width: 30%;
+    background-color: rgb(175, 213, 238);
+    margin-left: 40px;
+
+}
+
+.pedidos2{
+    color:rgba(0, 0, 255, 0.842);
+    margin-left: 20px;
+    display: flex;
+    
+}
+
+.pedidos3{
+    margin-left: 130px;
+}
+
+.pedidos4{
+    display: flex;
+}
+
+.pedidos5{
+    margin-left: 20px;
+    color: rgba(0, 0, 255, 0.842);
+    
+}
+
+.pedidos6{
+    margin-left: 70px;
+    color: rgba(0, 0, 255, 0.842);
+}
+
+.hr{
+   border-color:azure ; 
+   text-align: center;
+   border-width: 0; 
+   height: 1px;
+   border-top-width: 1px;
+   
+}
+
+.linha1{
+    display: flex;
+}
 
 
 
@@ -79,16 +131,71 @@ margin-left: 70px;
     margin-top: 30px;
 }
 
-.button1{
+.divbuttons{
+    display: flex;
+}
+
+.savebutton{
     height: 24px;
     margin-top: 3px;
     margin-left: 3px;
+}
+
+.colunacinza{
+    margin-top: 5px;
+    margin-left: 5px;
+    margin-right: 2px;
+    width: 2px;
+    height: 20px;
+    background-color: rgb(161, 159, 159);
 }
 
 .cancelbutton{
     height: 24px;
     margin-top: 3px;
     margin-left: 3px;
+}
+
+.editbutton{
+    height: 24px;
+    margin-top: 3px;
+    margin-left: 3px;
+    opacity: 0.5;
+}
+
+.savedraftbutton{
+    height: 24px;
+    margin-top: 3px;
+    margin-left: 3px;
+    opacity: 0.5;
+}
+
+.loaddraftbutton{
+    height: 24px;
+    margin-top: 3px;
+    margin-left: 3px;
+    opacity: 0.5;
+}
+
+.setasbutton{
+    height: 24px;
+    margin-top: 3px;
+    margin-left: 3px;
+    opacity: 0.5;
+}
+
+.undobutton{
+    height: 24px;
+    margin-top: 3px;
+    margin-left: 3px;
+    opacity: 0.5;
+}
+
+.redobutton{
+    height: 24px;
+    margin-top: 3px;
+    margin-left: 3px;
+    opacity: 0.5;
 }
 
 .saveimg{
