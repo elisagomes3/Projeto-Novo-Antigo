@@ -8,15 +8,9 @@
 
 .robo {
     display: flex;
-<<<<<<< HEAD
     margin-left: 10px;
 }
 
-=======
-    margin-left: 10px;      
-    }
-.titulos{
->>>>>>> 0a48dd1e9d7fa44004af42667c510d45e3ca65bb
     h1{
         color:rgba(0, 0, 255, 0.842);
     }
@@ -62,23 +56,15 @@ margin-left: 70px;
 
 .pedidos5{
     margin-left: 20px;
-    color: rgba(0, 0, 255, 0.842);
+    color: rgba(255, 0, 0, 0.842);
     
 }
 
 .pedidos6{
     margin-left: 70px;
-    color: rgba(0, 0, 255, 0.842);
+    color: rgba(255, 0, 0, 0.842);
 }
 
-.hr{
-   border-color:azure ; 
-   text-align: center;
-   border-width: 0; 
-   height: 1px;
-   border-top-width: 1px;
-   
-}
 
 .linha1{
     display: flex;
