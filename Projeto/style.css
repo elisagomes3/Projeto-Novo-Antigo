@@ -9,16 +9,15 @@
 .robo {
     display: flex;
     margin-left: 10px;
-    .titulos{
-        
-    }
+}
+
     h1{
         color: rgba(0, 0, 255, 0.521);
     }
     h4{
         color: rgb(207, 220, 231);
     }
-}
+
 
 .flechas{
 margin-left: 70px;
