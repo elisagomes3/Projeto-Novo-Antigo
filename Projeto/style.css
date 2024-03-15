@@ -220,6 +220,12 @@ margin-left: 70px;
     opacity: 0.5;
 }
 
+.checkbutton{
+    height: 24px;
+    margin-top: 3px;
+    margin-left: 3px;
+}
+
 .saveimg{
     height: 15px;
     width: auto;
