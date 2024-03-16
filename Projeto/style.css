@@ -2,7 +2,7 @@
     display: flex;
     border-radius: 30px;
     background-color: rgb(175, 213, 238);
-    width: 60%;
+    width: 65%;
 }
 
 .robo {
@@ -26,6 +26,7 @@ h5{
 margin-left: 60px;
 margin-top: 110px;
 font-family: Arial, Helvetica, sans-serif;
+
 
 }
 
@@ -164,7 +165,7 @@ font-family: Arial, Helvetica, sans-serif;
 }
 
 .h4{
-    color: rgba(0, 0, 255, 0.842);;
+    color: rgba(0, 0, 255, 0.842);
 }
 
 
@@ -173,7 +174,97 @@ font-family: Arial, Helvetica, sans-serif;
     display: flex;
 }
 
+.linha2{
+    background-color: rgb(175, 213, 238);
+    width: 60%;
+    margin-top: 10px;
+    border-radius: 30px;
+}
+.compras{
+    display: flex;
+    background-color: rgb(175, 213, 238);
+    border-radius: 30px;
+    color: rgba(0, 0, 255, 0.842);
+}
 
+.compras2{
+    margin-left: 20px;
+}
+
+.compras3{
+    margin-left: 290px;
+}
+.folha{
+    margin-left: 40px;
+    border-radius: 10px;
+    background-color: white;
+    width: 13%;
+}
+
+.folha h3{
+    font-size: small;
+    margin-left: 10px;
+}
+.produtos{
+    display: flex;
+}
+.sap{
+    margin-left: 20px;
+    border-radius: 10px;
+    background-color: white;
+    width: 13%;
+}
+.sap h3{
+    font-size: small;
+    margin-left: 10px;
+}
+.gramp{
+    margin-left: 20px;
+    border-radius: 10px;
+    background-color: white;
+    width: 13%;
+}
+.gramp h3{
+    font-size: small;
+    margin-left: 10px;
+    margin-top: 20px;
+}
+.gramp img{
+    margin-top: 20px;
+}
+
+.bic {
+    margin-left: 20px;
+    border-radius: 10px;
+    background-color: white;
+    width: 13%;
+}
+.bic h3{
+    font-size: small;
+    margin-left: 10px;
+}
+.lapis{
+    margin-left: 20px;
+    border-radius: 10px;
+    background-color: white;
+    width: 13%;
+}
+.lapis h3{
+    font-size: small;
+    margin-left: 10px; 
+    margin-top: 30px;
+}
+.caderno{
+    margin-left: 20px;
+    border-radius: 10px;
+    background-color: white;
+    width: 13%;
+}
+.caderno h3{
+    font-size: small;
+    margin-left: 10px;
+    margin-top: 25px;
+}
 
 .headerA{
     background-color: rgb(192, 186, 186);
