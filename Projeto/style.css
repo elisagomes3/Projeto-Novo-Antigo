@@ -23,11 +23,9 @@ h5{
 
 
 .flechas{
-margin-left: 60px;
-margin-top: 110px;
-font-family: Arial, Helvetica, sans-serif;
-
-
+    margin-left: 60px;
+    margin-top: 110px;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 .botoes{
@@ -266,6 +264,29 @@ font-family: Arial, Helvetica, sans-serif;
     margin-top: 25px;
 }
 
+.produtos{
+    display: flex;
+}
+
+.linha2{
+    display: flex;
+}
+
+.chat{
+    margin-left: 100px;
+    background-color: rgb(175, 213, 238);
+    border-radius: 30px;
+    width: 80%;
+}
+
+.chat2{
+    display: flex;
+}
+
+.chat2 h1{
+    margin-right: 300px;
+    margin-left: 10px;
+}
 
 
 
