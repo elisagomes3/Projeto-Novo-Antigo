@@ -196,7 +196,7 @@ h5{
     margin-left: 40px;
     border-radius: 10px;
     background-color: white;
-    width: 13%;
+    width: 17%;
 }
 
 .folha h3{
@@ -210,7 +210,7 @@ h5{
     margin-left: 20px;
     border-radius: 10px;
     background-color: white;
-    width: 13%;
+    width: 17%;
 }
 .sap h3{
     font-size: small;
@@ -220,7 +220,7 @@ h5{
     margin-left: 20px;
     border-radius: 10px;
     background-color: white;
-    width: 13%;
+    width: 17%;
 }
 .gramp h3{
     font-size: small;
@@ -235,7 +235,7 @@ h5{
     margin-left: 20px;
     border-radius: 10px;
     background-color: white;
-    width: 13%;
+    width: 17%;
 }
 .bic h3{
     font-size: small;
@@ -245,7 +245,7 @@ h5{
     margin-left: 20px;
     border-radius: 10px;
     background-color: white;
-    width: 13%;
+    width: 17%;
 }
 .lapis h3{
     font-size: small;
@@ -256,7 +256,7 @@ h5{
     margin-left: 20px;
     border-radius: 10px;
     background-color: white;
-    width: 13%;
+    width: 17%;
 }
 .caderno h3{
     font-size: small;
@@ -278,13 +278,22 @@ h5{
 
 .chat{
     border-radius: 30px;
-    width: 40%;
+    width: 75%;
     background-color: rgb(175, 213, 238);
-    margin-left: 200px;
+    margin-left: 320px;
     display: flex;
 }
 
-.chat2
+.chat2{
+    margin-left: 10px;
+    margin-right: 420px;
+    color: rgba(0, 0, 255, 0.842);
+}
+
+.chat3{
+    margin-right: 10px;
+    color: rgba(0, 0, 255, 0.842);
+}
 
 
 
