@@ -801,8 +801,8 @@ h5{
 }
 
 .tabela{
-    background-color: rgb(197, 197, 197);
-    border-color: black;
+    
+    border-style: outset;
 }
 
 .barracinza{
@@ -812,6 +812,7 @@ h5{
     margin-left: 380px;
     margin-top: -64px;
 }
+
 
 .corpo{
     margin-top: 0%;
