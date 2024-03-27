@@ -832,7 +832,7 @@ th{
 
 .barracinza{
     background-color: rgb(192, 186, 186);
-    height: 896px;
+    height: 858px;
     width: 6px;
     margin-left: 380px;
     margin-top: -600px;
@@ -923,6 +923,61 @@ th{
     border-bottom: 12px solid rgb(1, 74, 231);
     margin-top: -15px;
     margin-left: 195px;
+}
+
+.cinza{
+    background-color: rgb(192, 186, 186);
+    display: flex;
+    margin-top: 3px;
+    height: 31px;
+}
+
+.pagemaster{
+    height: 24px;
+    margin-top: 3px;
+    margin-left: 3px;
+}
+
+.section{
+    height: 24px;
+    margin-top: 3px;
+    margin-left: 3px;
+}
+
+.UIBB{
+    height: 24px;
+    margin-top: 3px;
+    margin-left: 3px;
+}
+
+.Up2{
+    height: 24px;
+    margin-top: 3px;
+    margin-left: 8px;
+}
+
+.Down2{
+    height: 24px;
+    margin-top: 3px;
+    margin-left: 8px;
+}
+
+.trash2{
+    height: 24px;
+    margin-top: 3px;
+    margin-left: 5px;
+}
+
+.configure{
+    height: 24px;
+    margin-top: 3px;
+    margin-left: 940px;
+}
+
+.suport2{
+    height: 24px;
+    margin-top: 3px;
+    margin-left: 5px;
 }
 
 .corpo{
