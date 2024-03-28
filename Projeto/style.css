@@ -1012,6 +1012,12 @@ th{
     border-top: 8px solid rgb(104, 104, 104);
 }
 
+.branco{
+    background-color: white;
+    height: 30px;
+    width: 1533px;
+}
+
 .corpo{
     margin-top: 0%;
     margin-left: 0%;
