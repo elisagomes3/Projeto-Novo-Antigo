@@ -994,6 +994,16 @@ th{
     width: 15px;
 }
 
+.conteudotd{
+    margin-top: -13px;
+}
+
+.saveimg2{
+    margin-left: 30px;
+    height: 15px;
+    width: auto;
+}
+
 .triangle4{
     width: 0; 
     height: 0; 
