@@ -980,6 +980,28 @@ th{
     margin-left: 5px;
 }
 
+.tabela2{
+    background-color: white;
+    border: 1px solid;
+    border-color: gray;
+    border-collapse: collapse;
+    width: 1534px;
+    height: 337px;
+}
+
+.quadradocomquadrado{
+    background-color: rgb(192, 186, 186);
+    width: 15px;
+}
+
+.triangle4{
+    width: 0; 
+    height: 0; 
+    border-left: 6px solid transparent;
+    border-right: 6px solid transparent;
+    border-top: 8px solid rgb(104, 104, 104);
+}
+
 .corpo{
     margin-top: 0%;
     margin-left: 0%;
