@@ -832,7 +832,7 @@ th{
 
 .barracinza{
     background-color: rgb(192, 186, 186);
-    height: 896px;
+    height: 858px;
     width: 6px;
     margin-left: 380px;
     margin-top: -600px;
@@ -843,7 +843,7 @@ th{
     margin-left: 386px;
     background-color: rgb(238, 238, 238);
     width: 1534px;
-    height: 550px;
+    height: 517px;
 }
 
 .barrabranca{
@@ -924,6 +924,161 @@ th{
     margin-top: -15px;
     margin-left: 195px;
 }
+
+.cinza{
+    background-color: rgb(192, 186, 186);
+    display: flex;
+    margin-top: 3px;
+    height: 31px;
+}
+
+.pagemaster{
+    height: 24px;
+    margin-top: 3px;
+    margin-left: 3px;
+}
+
+.section{
+    height: 24px;
+    margin-top: 3px;
+    margin-left: 3px;
+}
+
+.UIBB{
+    height: 24px;
+    margin-top: 3px;
+    margin-left: 3px;
+}
+
+.Up2{
+    height: 24px;
+    margin-top: 3px;
+    margin-left: 8px;
+}
+
+.Down2{
+    height: 24px;
+    margin-top: 3px;
+    margin-left: 8px;
+}
+
+.trash2{
+    height: 24px;
+    margin-top: 3px;
+    margin-left: 5px;
+}
+
+.configure{
+    height: 24px;
+    margin-top: 3px;
+    margin-left: 940px;
+}
+
+.suport2{
+    height: 24px;
+    margin-top: 3px;
+    margin-left: 5px;
+}
+
+.tabela2{
+    background-color: white;
+    border: 1px solid;
+    border-color: gray;
+    border-collapse: collapse;
+    width: 1534px;
+    height: 337px;
+}
+
+.quadradocomquadrado{
+    background-color: rgb(192, 186, 186);
+    width: 15px;
+}
+
+.conteudotd{
+    margin-top: -13px;
+}
+
+.saveimg2{
+    margin-left: 30px;
+    height: 15px;
+    width: auto;
+}
+
+.triangle4{
+    width: 0; 
+    height: 0; 
+    border-left: 6px solid transparent;
+    border-right: 6px solid transparent;
+    border-top: 8px solid rgb(104, 104, 104);
+}
+
+.branco{
+    background-color: white;
+    height: 30px;
+    width: 1533px;
+    display: flex;
+}
+
+.partecinza{
+    background-color: rgb(161, 161, 161);
+    height:22px;
+    width: 1250px;
+    margin-top: 4px;
+    margin-left: 10px;
+}
+
+.seta1{
+    height: 15px;
+    width: auto;
+    margin-left: 10px;
+    margin-top: 6px;
+}
+
+.seta2{
+    height: 15px;
+    width: auto;
+    margin-top: 6px;
+    margin-left: 220px;
+}
+
+.barracinza2{
+    background-color: rgb(192, 186, 186);
+    height: 12px;
+    width: 1534px;
+    
+}
+
+.downmid{
+    background-color: rgb(238, 238, 238);
+    width: 1534px;
+    height: 333px;
+    margin-left: 386px;
+   
+}
+
+.partecima{
+    display: flex;
+}
+
+.attributes{
+    margin-top: 10px;
+    margin-right: 810px;
+    font-family: arial;
+}
+
+.finalflags{
+    height: 24px;
+    margin-top: 12px;
+    margin-left: 3px;
+}
+
+.containerline2{
+    margin-top: -10px;
+    width: 100%;
+    height: 4px;
+    background-color: rgb(1, 74, 231);
+}
+
 
 .corpo{
     margin-top: 0%;
