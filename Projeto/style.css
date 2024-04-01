@@ -832,7 +832,7 @@ th{
 
 .barracinza{
     background-color: rgb(192, 186, 186);
-    height: 858px;
+    height: 896px;
     width: 6px;
     margin-left: 380px;
     margin-top: -600px;
@@ -1049,7 +1049,6 @@ th{
 }
 
 .downmid{
-    background-color: rgb(238, 238, 238);
     width: 1534px;
     height: 333px;
     margin-left: 386px;
@@ -1079,6 +1078,155 @@ th{
     background-color: rgb(1, 74, 231);
 }
 
+.downmidconteudo{
+    margin-top: 10px;
+    margin-left: 130px;
+    width: 1390px;
+    height: 300px;
+    display: flex;
+}
+
+.texto{
+    margin-top: -10px;
+    font-size: 18px;
+}
+
+.segundacoluna{
+    margin-left: 20px;
+}
+
+.caixa1{
+    border: 1px solid;
+    height: 26px;
+    width: 400px;
+    margin-top: 6px;
+    display: flex;
+}
+
+.caixa1 p{
+    margin-top: 4px;
+    margin-left: 5px;
+}
+
+.saveimg3{
+    margin-top: 3px;
+    margin-left: 240px;
+    height: 20px;
+    width: auto;
+}
+
+.caixa2{
+    border: 1px solid;
+    height: 26px;
+    width: 400px;
+    margin-top: 9px;
+    display: flex;
+}
+
+.caixa2 p {
+    margin-top: 4px;
+    margin-left: 5px;
+}
+
+.saveimg4{
+    margin-top: 3px;
+    margin-left: 92px;
+    height: 20px;
+    width: auto;
+}
+
+.caixa3{
+    border: 1px solid;
+    height: 26px;
+    width: 400px;
+    margin-top: 11px;
+    display: flex;
+}
+
+.caixa4{
+    border: 1px solid;
+    height: 26px;
+    width: 400px;
+    margin-top: 11px;
+    display: flex;
+}
+
+.caixa4 p{
+    margin-top: 4px;
+    margin-left: 385px;
+}
+
+.caixa5{
+    border: 1px solid;
+    height: 26px;
+    width: 400px;
+    margin-top: 11px;
+    display: flex;
+}
+
+.caixa5 p{
+    margin-top: 4px;
+    margin-left: 385px;
+}
+
+.caixa6{
+    border: 1px solid;
+    height: 26px;
+    width: 400px;
+    margin-top: 11px;
+    display: flex;
+}
+
+.caixa7{
+    border: 1px solid;
+    height: 26px;
+    width: 400px;
+    margin-top: 11px;
+    display: flex;
+}
+
+.caixa8{
+    border: 1px solid;
+    height: 26px;
+    width: 400px;
+    margin-top: 11px;
+    display: flex;
+}
+
+.caixa8 p{
+    margin-top: 4px;
+    margin-left: 5px;
+}
+
+.saveimg5{
+    margin-top: 7px;
+    margin-left: 324px;
+    height: 12px;
+    width: auto;
+}
+
+.terceiracoluna{
+    margin-left: 220px;
+}
+
+.saveimg6{
+    margin-top: 3px;
+    margin-left: 369px;
+    height: 20px;
+    width: auto;
+}
+
+.caixa3 p{
+    margin-top: 4px;
+    margin-left: 5px;
+}
+
+.saveimg7{
+    margin-top: 7px;
+    margin-left: 240px;
+    height: 12px;
+    width: auto;
+}
 
 .corpo{
     margin-top: 0%;
